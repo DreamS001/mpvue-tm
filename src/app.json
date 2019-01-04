@@ -1,0 +1,85 @@
+{
+  "pages": [
+    "pages/home/main",
+    "pages/search/main",
+    "pages/searchResult/main",
+    "pages/category/main",
+    "pages/ticket/main",
+    "pages/mine/main",
+    "pages/area/main",
+    "pages/member/main",
+    "pages/gifts/main",
+    "pages/invitation/main",
+    "pages/city/main",
+    "pages/moreGoods/main",
+    "pages/problemCenterDetail/main",
+    "pages/collection/main",
+    "pages/myMember/main",
+    "pages/myOrder/main",
+    "pages/problemCenter/main",
+    "pages/promotion/main",
+    "pages/shareInvitation/main",
+    "pages/myWallet/main",
+    "pages/chooseCoupons/main",
+    "pages/memberPayment/main",
+    "pages/myCash/main",
+    "pages/myMemberCoupons/main",
+    "pages/myMessage/main",
+    "pages/openMember/main",
+    "pages/myInfo/main",
+    "pages/activeDetails/main",
+    "pages/activeEvaluate/main",
+    "pages/tmRule/main",
+    "pages/seeEvaluate/main",
+    "pages/commodityCode/main",
+    "pages/paySuccess/main",
+    "pages/auth/main",
+    "pages/label/main",
+    "pages/index/main"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序中，为你提供更好的服务"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "听米",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#979797",
+    "selectedColor": "#3fd6c7",
+    "backgroundColor": "#ffffff",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/home/main",
+        "text": "首页",
+        "iconPath": "/static/images/tabBar/home.png",
+        "selectedIconPath": "/static/images/tabBar/home-active.png"
+      },
+      {
+        "pagePath": "pages/category/main",
+        "text": "分类",
+        "iconPath": "/static/images/tabBar/category.png",
+        "selectedIconPath": "/static/images/tabBar/category-active.png"
+      },
+      {
+        "pagePath": "pages/ticket/main",
+        "text": "票夹",
+        "iconPath": "/static/images/tabBar/ticket.png",
+        "selectedIconPath": "/static/images/tabBar/ticket-active.png"
+      },
+      {
+        "pagePath": "pages/mine/main",
+        "text": "个人中心",
+        "iconPath": "/static/images/tabBar/mine.png",
+        "selectedIconPath": "/static/images/tabBar/mine-active.png"
+      }
+    ]
+  }
+  
+}

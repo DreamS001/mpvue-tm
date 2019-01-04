@@ -1,0 +1,229 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"miniprogramRoot": "dist/wx/",
+	"compileType": "miniprogram",
+	"appid": "wx389433fad3ab6c85",
+	"projectname": "mpvue-tm",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 31,
+			"list": [
+				{
+					"id": 0,
+					"name": "search",
+					"pathName": "pages/search/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "category",
+					"pathName": "pages/category/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "mine",
+					"pathName": "pages/mine/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "tricke",
+					"pathName": "pages/ticket/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "searchResult",
+					"pathName": "pages/searchResult/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "city",
+					"pathName": "pages/city/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "myWallet",
+					"pathName": "pages/myWallet/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "collection",
+					"pathName": "pages/collection/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "mymember",
+					"pathName": "pages/myMember/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "promotion",
+					"pathName": "pages/promotion/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "gifts",
+					"pathName": "pages/gifts/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "invitation",
+					"pathName": "pages/invitation/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "problemCenter",
+					"pathName": "pages/problemCenter/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "problemCenterDetail",
+					"pathName": "pages/problemCenterDetail/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "myMemberCoupons",
+					"pathName": "pages/myMemberCoupons/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "chooseCoupons",
+					"pathName": "pages/chooseCoupons/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "member",
+					"pathName": "pages/member/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "openMember",
+					"pathName": "pages/openMember/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "myMessage",
+					"pathName": "pages/myMessage/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "myOrder",
+					"pathName": "pages/myOrder/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "shareInvitation",
+					"pathName": "pages/shareInvitation/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "myCash",
+					"pathName": "pages/myCash/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "tmRule",
+					"pathName": "pages/tmRule/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "activeEvaluate",
+					"pathName": "pages/activeEvaluate/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "seeEvaluate",
+					"pathName": "pages/seeEvaluate/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "activeDetails",
+					"pathName": "pages/activeDetails/main",
+					"query": ""
+				},
+				{
+					"id": 26,
+					"name": "area",
+					"pathName": "pages/area/main",
+					"query": "id=1"
+				},
+				{
+					"id": -1,
+					"name": "memberPayment",
+					"pathName": "pages/memberPayment/main",
+					"query": "id=1"
+				},
+				{
+					"id": -1,
+					"name": "paySuccess",
+					"pathName": "pages/paySuccess/main",
+					"query": "id=1"
+				},
+				{
+					"id": -1,
+					"name": "commodityCode",
+					"pathName": "pages/commodityCode/main",
+					"query": "id=1"
+				},
+				{
+					"id": -1,
+					"name": "auth",
+					"pathName": "pages/auth/main",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "label",
+					"pathName": "pages/label/main"
+				}
+			]
+		}
+	}
+}
